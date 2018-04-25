@@ -1,4 +1,4 @@
-const compare = (function(){
+export const compare = (function(){
 
     //判断数组bigArr是否包含数组smallArr
     const isContain = (bigArr,smallArr) => {
